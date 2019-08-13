@@ -11,4 +11,4 @@ To begin using this program, use the accessParser.jar file included.
 ```bash
 java -jar accessParser.jar
 ```
-This will prompt the user for a date, parse, and then output a few CSV reports, including a list of possible attacker's ip addresses if there has been suspicious activity.
+This will prompt the user for a date, parse, and then output a few CSV reports, including a list of possible attacker's IP addresses if there has been suspicious activity.

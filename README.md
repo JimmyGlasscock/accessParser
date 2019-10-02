@@ -4,7 +4,7 @@ This parser generates a nice CSV of all the sites that have been accessed, using
 
 ## Installation
 
-To begin using this program, use the accessParser.jar file included.
+To begin using this program, use the accessParser.jar file included, or compile the source code in a java IDE if you made changes.
 
 ## Usage
 
